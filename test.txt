@@ -1,1 +1,3 @@
 Make a training how to create, switched and merge branches.
+
+Pushing this modification onto new branch 'test'.
